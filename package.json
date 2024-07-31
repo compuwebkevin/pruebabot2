@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "puppeteer": "^22.14.0",
+    "puppeteer-core": "^22.14.0",
+    "qrcode": "^1.5.3",
+    "rimraf": "^6.0.1",
+    "whatsapp-web.js": "^1.25.0"
+  },
+  "name": "bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
